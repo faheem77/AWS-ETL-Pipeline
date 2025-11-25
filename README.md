@@ -19,7 +19,7 @@
   </p>
   <ol>
     <li>Reads the CSV file from S3</li>
-    <li>Performs data validation, cleaning, and transformation using <strong>pandas</strong> and <strong>numpy</strong></li>
+    <li>Performs data validation, cleaning, and transformation using <strong>pandas</strong> </li>
     <li>Loads the processed data into <strong>Snowflake</strong> for analytics</li>
     <li>Indexes the same data into <strong>Elasticsearch</strong> for search and visualization</li>
   </ol>
