@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-crawl4ai = "==0.4.247"
+crawl4ai = "==0.8.0"
 python-dotenv = "==1.0.1"
 pydantic = "==2.10.6"
 
