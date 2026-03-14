@@ -17,7 +17,7 @@ jmespath==1.0.1
 packaging==25.0
 platformdirs==4.4.0
 pycparser==2.23
-PyJWT==2.10.1
+PyJWT==2.12.0
 pyOpenSSL==25.3.0
 python-dateutil==2.9.0.post0
 pytz==2025.2
